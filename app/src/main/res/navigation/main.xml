@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/startFragment">
+
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.space.aviatory.StartFragment"
+        android:label="StartFragment" />
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.space.aviatory.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
+    <fragment
+        android:id="@+id/fragmentGame"
+        android:name="com.space.aviatory.FragmentGame"
+        android:label="FragmentGame" />
+    <fragment
+        android:id="@+id/scoreFragment"
+        android:name="com.space.aviatory.ScoreFragment"
+        android:label="ScoreFragment" />
+</navigation>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914146712890",
+    "project_id": "comspaceaviatory",
+    "storage_bucket": "comspaceaviatory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914146712890:android:f5a0dd734ab7fccb548403",
+        "android_client_info": {
+          "package_name": "com.space.aviatory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914146712890-7pquv3keeft99ndtp2igf0uffsupo926.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChhYpLQnoOoClwKIHUJiO3B3Ip8akmZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914146712890-7pquv3keeft99ndtp2igf0uffsupo926.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
